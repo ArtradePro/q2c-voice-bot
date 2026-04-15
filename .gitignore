@@ -1,0 +1,6 @@
+node_modules/
+audio/
+.env
+nginx/ssl/
+nginx/certbot/
+*.mp3
